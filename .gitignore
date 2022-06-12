@@ -1,0 +1,5 @@
+node_modules
+requests
+.env
+.vs_code
+.eslintrc.js
